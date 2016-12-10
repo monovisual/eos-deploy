@@ -1,0 +1,69 @@
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\csc.exe
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\vbc.exe
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\VBCSCompiler.exe
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Eos Placeholder.dll.config
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Eos Placeholder.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Eos Placeholder.pdb
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Antlr3.Runtime.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\EntityFramework.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\EntityFramework.SqlServer.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.Owin.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.Owin.Security.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Newtonsoft.Json.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Owin.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\System.Web.Helpers.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\System.Web.Mvc.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\System.Web.Optimization.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\System.Web.Razor.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\System.Web.WebPages.Deployment.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\System.Web.WebPages.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\System.Web.WebPages.Razor.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\WebGrease.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\System.Web.Helpers.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\System.Web.Mvc.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\System.Web.Optimization.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\System.Web.Razor.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\System.Web.WebPages.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\System.Web.WebPages.Deployment.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\System.Web.WebPages.Razor.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Antlr3.Runtime.pdb
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Newtonsoft.Json.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\EntityFramework.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\EntityFramework.SqlServer.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.Owin.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.Owin.Security.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\obj\Release\Eos Placeholder.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\obj\Release\Eos Placeholder.pdb
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\obj\Release\Eos Placeholder.csprojResolveAssemblyReference.cache
