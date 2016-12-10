@@ -4,6 +4,7 @@
     <UseIISExpress>true</UseIISExpress>
     <IISExpressSSLPort>44384</IISExpressSSLPort>
     <NameOfLastUsedPublishProfile>eosdeploy - Web Deploy %282%29</NameOfLastUsedPublishProfile>
+    <ProjectView>ShowAllFiles</ProjectView>
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>
