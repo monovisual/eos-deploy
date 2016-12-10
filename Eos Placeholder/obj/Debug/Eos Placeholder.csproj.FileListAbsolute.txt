@@ -80,3 +80,4 @@ C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Micros
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\obj\Debug\Eos Placeholder.dll
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\obj\Debug\Eos Placeholder.pdb
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\obj\Debug\Eos Placeholder.csprojResolveAssemblyReference.cache

@@ -185,6 +185,9 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\favicon.ico" />
+    <Content Include="css\style1.css" />
+    <Content Include="css\style4.css" />
     <Content Include="Images\001.png" />
     <Content Include="Images\002.png" />
     <Content Include="Content\background.jpg" />
@@ -205,6 +208,12 @@
     <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="Properties\PublishProfiles\eosdeploy - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.1.1.intellisense.js" />
+    <Content Include="Images\slideshow\1.jpg" />
+    <Content Include="Images\slideshow\2.jpg" />
+    <Content Include="Images\slideshow\3.jpg" />
+    <Content Include="Images\slideshow\4.jpg" />
+    <Content Include="Images\slideshow\5.jpg" />
+    <Content Include="Images\slideshow\6.jpg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.1.1.js" />
@@ -217,6 +226,7 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="js\modernizr.custom.86080.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.matchmedia.addListener.js" />
     <Content Include="Scripts\respond.matchmedia.addListener.min.js" />
