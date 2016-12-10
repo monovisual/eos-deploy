@@ -32,7 +32,6 @@ body {
 }
 .caption > a {
     font-size:30px;
-    font-size:30px;
     text-decoration: none !important;
     color:#fff;
 }
@@ -41,4 +40,92 @@ img {
 	position: absolute;
 	top: 0; left: 0; right: 0; bottom: 0;
 	display:block; margin: 0 auto;
+    max-height: 900px;
+    max-width:900px;
+}
+
+@media (max-width: 767px) {
+
+.container {
+   position: relative;
+   width: 250px;
+   height: 250px;
+   margin: 10px auto;
+   top: 0;
+   left: 0;
+   align-content:center;
+}
+
+.caption {
+    top:250px;
+}
+.caption > h1 {
+    font-size:35px;
+    letter-spacing: 2px;
+}
+.caption > a {
+    font-size:18px;
+}
+
+img {
+	max-height: 250px;
+    max-width: 250px;
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+.container {
+   width: 500px;
+   height: 500px;
+   margin-top: -275px;
+   margin-left: -250px;
+}
+
+.caption {
+    top:500px;
+}
+.caption > h1 {
+    font-size:35px;
+    letter-spacing: 2px;
+}
+.caption > a {
+    font-size:18px;
+}
+
+img {
+	max-height: 500px;
+    max-width: 500px;
+}
+
+}
+
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+
+.container {
+   width: 700px;
+   height: 700px;
+   margin-top: -375px;
+   margin-left: -350px;
+}
+
+.caption {
+    top:700px;
+}
+.caption > h1 {
+    font-size:40px;
+    letter-spacing: 2px;
+}
+.caption > a {
+    font-size:21px;
+}
+
+img {
+	max-height: 700px;
+    max-width: 700px;
+}
+
 }
