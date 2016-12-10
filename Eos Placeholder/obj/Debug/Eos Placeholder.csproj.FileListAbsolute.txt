@@ -1,13 +1,27 @@
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\csc.exe
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\csc.exe.config
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\csc.rsp
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\csi.exe
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\csi.rsp
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\System.AppContext.dll
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\System.IO.FileSystem.Primitives.dll
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\System.Reflection.Metadata.dll
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\vbc.exe
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\vbc.exe.config
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\vbc.rsp
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\VBCSCompiler.exe
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Eos Placeholder.dll.config
@@ -40,7 +54,9 @@ C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\System
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\System.Web.WebPages.dll
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\System.Web.WebPages.Razor.dll
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\WebGrease.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Antlr3.Runtime.pdb
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Newtonsoft.Json.xml
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\System.Web.Helpers.xml
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\System.Web.Mvc.xml
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\System.Web.Optimization.xml
@@ -48,8 +64,6 @@ C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\System
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\System.Web.WebPages.xml
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\System.Web.WebPages.Deployment.xml
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\System.Web.WebPages.Razor.xml
-C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Antlr3.Runtime.pdb
-C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Newtonsoft.Json.xml
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\EntityFramework.xml
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\EntityFramework.SqlServer.xml
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.AspNet.Identity.Core.xml
@@ -64,6 +78,5 @@ C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Micros
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\obj\Debug\Eos Placeholder.csprojResolveAssemblyReference.cache
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\obj\Debug\Eos Placeholder.dll
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\obj\Debug\Eos Placeholder.pdb
