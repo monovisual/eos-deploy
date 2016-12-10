@@ -66,4 +66,17 @@ C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Micros
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\obj\Release\Eos Placeholder.dll
 C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\obj\Release\Eos Placeholder.pdb
-C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\obj\Release\Eos Placeholder.csprojResolveAssemblyReference.cache
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\csc.exe.config
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\csc.rsp
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\csi.exe
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\csi.rsp
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\System.AppContext.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\vbc.exe.config
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder\bin\roslyn\vbc.rsp

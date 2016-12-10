@@ -1,0 +1,69 @@
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\obj\Release\Eos Placeholder.Tests.csprojResolveAssemblyReference.cache
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\roslyn\csc.exe
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\roslyn\csc.exe.config
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\roslyn\csc.rsp
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\roslyn\csi.exe
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\roslyn\csi.rsp
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\roslyn\System.AppContext.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\roslyn\System.Collections.Immutable.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\roslyn\System.IO.FileSystem.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\roslyn\System.Reflection.Metadata.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\roslyn\vbc.exe
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\roslyn\vbc.exe.config
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\roslyn\vbc.rsp
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\roslyn\VBCSCompiler.exe
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\roslyn\VBCSCompiler.exe.config
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\Eos Placeholder.Tests.dll.config
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\Eos Placeholder.Tests.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\Eos Placeholder.Tests.pdb
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\Eos Placeholder.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\Newtonsoft.Json.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\System.Web.Helpers.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\System.Web.Mvc.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\System.Web.Razor.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\System.Web.WebPages.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\Microsoft.Owin.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\System.Web.Optimization.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\Microsoft.AspNet.Identity.Core.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\Microsoft.Owin.Security.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\Owin.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\EntityFramework.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\Microsoft.Owin.Security.Cookies.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\Eos Placeholder.pdb
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\Newtonsoft.Json.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\System.Web.Helpers.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\System.Web.Mvc.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\System.Web.Razor.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\System.Web.WebPages.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\Microsoft.Owin.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\System.Web.Optimization.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\Microsoft.AspNet.Identity.Core.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\Microsoft.Owin.Security.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\EntityFramework.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\Microsoft.Owin.Security.Cookies.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\bin\Release\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\obj\Release\Eos Placeholder.Tests.dll
+C:\Users\monovisual\Source\Workspaces\Eos Placeholder\Eos Placeholder.Tests\obj\Release\Eos Placeholder.Tests.pdb
