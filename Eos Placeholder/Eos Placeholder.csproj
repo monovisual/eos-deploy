@@ -194,7 +194,6 @@
     <Content Include="Images\logo.png" />
     <Content Include="Images\logo1800.png" />
     <Content Include="Images\logo1800c.png" />
-    <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\site.css" />
